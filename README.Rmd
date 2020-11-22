@@ -8,8 +8,12 @@ output: github_document
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
-  out.width = "100%"
+  out.width = "100%",
+  echo = FALSE
 )
+
+# library(magrittr)
+# library(magick)
 
 ```
 
@@ -19,33 +23,20 @@ knitr::opts_chunk$set(
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-library(magrittr)
-library(magick)
-```
-
 The goal of Chen's Gallery is to showcase all art pieces on a single website.
-
-```{r image}
-magick::image_read(path = '/Users/chris/r_programming/chensgallery/static/img/WhatsApp Image 2020-11-22 at 12.39.22 (2).jpeg') %>% 
-  magick::image_trim() %>% 
-  magick::image_scale("600x400")
-```
 
 ## Website
 
-[Tian Tian's Gallery](https://tiantiandegallery.netlify.app/)
+[![Tian Tian's Gallery](/Users/chris/r_programming/chensgallery/static/general/url.png)](https://tiantiandegallery.netlify.app)
 
-## Github
+## Github Repository
 
-[Github Repro](https://github.com/deadhand777/chensgallery)
+[![Github Repro](/Users/chris/r_programming/chensgallery/static/general/github.png)](https://github.com/deadhand777/chensgallery)
 
-## Docker
+## Docker Hub
 
-[Docker](https://www.docker.com/)
+[![Docker Hub](/Users/chris/r_programming/chensgallery/static/general/docker.png)](https://www.docker.com/)
 
 ## Netlify
 
-[Netlify](https://app.netlify.com/teams/chris-schulz13/overview)
+[![Netlify](/Users/chris/r_programming/chensgallery/static/general/netlify.png)](https://app.netlify.com/sites/tiantiandegallery/overview)

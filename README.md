@@ -12,20 +12,21 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 The goal of Chen’s Gallery is to showcase all art pieces on a single
 website.
 
-<img src="README_files/figure-gfm/image-1.png" width="100%" />
-
 ## Website
 
-[Tian Tian’s Gallery](https://tiantiandegallery.netlify.app/)
+[![Tian Tian’s
+Gallery](/Users/chris/r_programming/chensgallery/static/general/url.png)](https://tiantiandegallery.netlify.app)
 
-## Github
+## Github Repository
 
-[Github Repro](https://github.com/deadhand777/chensgallery)
+[![Github
+Repro](/Users/chris/r_programming/chensgallery/static/general/github.png)](https://github.com/deadhand777/chensgallery)
 
-## Docker
+## Docker Hub
 
-[Docker](https://www.docker.com/)
+[![Docker
+Hub](/Users/chris/r_programming/chensgallery/static/general/docker.png)](https://www.docker.com/)
 
 ## Netlify
 
-[Netlify](https://app.netlify.com/teams/chris-schulz13/overview)
+[![Netlify](/Users/chris/r_programming/chensgallery/static/general/netlify.png)](https://app.netlify.com/sites/tiantiandegallery/overview)
