@@ -9,10 +9,8 @@
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 
-The goal of chensgallery is to …
-
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
+The goal of Chen’s Gallery is to showcase all art pieces on a single
+website.
 
 ## Github
 
