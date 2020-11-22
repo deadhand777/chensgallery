@@ -12,6 +12,8 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 The goal of Chen’s Gallery is to showcase all art pieces on a single
 website.
 
+<img src="README_files/figure-gfm/image-1.png" width="100%" />
+
 ## Website
 
 [Tian Tian’s Gallery](https://tiantiandegallery.netlify.app/)
