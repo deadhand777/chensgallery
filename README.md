@@ -1,8 +1,7 @@
+Chen’s Gallery
+================
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-# Chen’s Gallery
-
 <!-- badges: start -->
 
 [![Lifecycle:
